@@ -1,2 +1,4 @@
 # house_price_prediction
-Predict house prices 
+by 
+Hamza Ait kabbour
+Predict house prices using linear regression 
